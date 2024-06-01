@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 002f3e00ed7483f4ab25f909ebdd0c2b, type: 3}
+  m_Name: TextLine_Restart
+  m_EditorClassIdentifier: 
+  textLines:
+  - textLang: 0
+    text: "\u0417\u0430\u043D\u043E\u0432\u043E"
+  - textLang: 1
+    text: Restart
+  - textLang: 2
+    text: Reiniciar
+  - textLang: 3
+    text: "Red\xE9marrage"
+  - textLang: 4
+    text: "Tekrar ba\u015Flat"
